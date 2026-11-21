@@ -1,5 +1,7 @@
 # JWT Fundamentals
 
+[![Verified on Pluralsight](https://img.shields.io/badge/Pluralsight-JWT%20Fundamentals-F15B2A?style=flat&logo=pluralsight&logoColor=white)](https://app.pluralsight.com/achievements/share/77a53766-56ff-4508-a679-7cfd01f0c2c1)
+
 A complete reference on JSON Web Tokens: what they are, how to create and validate them, the cryptographic algorithms behind JSON Web Signatures (JWS) and JSON Web Encryption (JWE), and security best practices for JWT-based systems.
 
 All five modules are consolidated into a single Jupyter Notebook: [`jwt-fundamentals.ipynb`](jwt-fundamentals.ipynb).
